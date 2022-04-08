@@ -22,20 +22,20 @@
 
 ```js
 class Onited {
-constructor(){
-	this.name = "Dorian Baudry";
-	this.username = "Onited";
-	this.age = "20 ans";
-	this.location = "Montpellier, France";
-	this.linkedin = "https://www.linkedin.com/in/dorian-baudry34/";
-}
-myInfo(){
-	return  this.name  		+  "<br />"
-		 +  this.username  	+  "<br />"
-		 +  this.age  		+  "<br />"
-		 +  this.location  	+  "<br />"
-		 +  this.linkedin;
-}
+	constructor(){
+		this.name = "Dorian Baudry";
+		this.username = "Onited";
+		this.age = "20 ans";
+		this.location = "Montpellier, France";
+		this.linkedin = "https://www.linkedin.com/in/dorian-baudry34/";
+	}
+	myInfo(){
+		return  this.name       +  "<br />"
+		     +  this.username   +  "<br />"
+		     +  this.age        +  "<br />"
+		     +  this.location   +  "<br />"
+	             +  this.linkedin;
+	}
 }
 let me = new Onited();
 me => myInfo();
