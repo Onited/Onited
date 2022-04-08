@@ -30,11 +30,11 @@ class Onited {
 		this.linkedin = "https://www.linkedin.com/in/dorian-baudry34/";
 	}
 	myInfo(){
-		return  this.name       +  "<br />"
-		     +  this.username   +  "<br />"
-		     +  this.age        +  "<br />"
-		     +  this.location   +  "<br />"
-	             +  this.linkedin;
+		return  this.name  	+  "<br />"
+		     +  this.username  	+  "<br />"
+		     +  this.age  	+  "<br />"
+		     +  this.location  	+  "<br />"
+		     +  this.linkedin;
 	}
 }
 let me = new Onited();
@@ -61,7 +61,7 @@ me => myInfo();
 <p align="left">
   <a href="https://github.com/Onited/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Onited&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Onited&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=onited&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <br>
