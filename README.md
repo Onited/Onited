@@ -77,5 +77,7 @@ me => myInfo();
 	<a href="https://www.linkedin.com/in/dorian-baudry34/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 	<img alt='Discord' src='https://img.shields.io/badge/DorianBaudry-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
 </div>
-
-Credit: [Onited](https://github.com/onited)
+		
+<div align="center">
+	Credit: [Onited](https://github.com/onited)
+</div>
