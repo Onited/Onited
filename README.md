@@ -69,7 +69,10 @@ me => myInfo();
 [![Onited' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onited&custom_title=Onited's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Onited/)
 
 ------
+## <p><strong>>Où me trouver !<</strong><p>
+<a href="https://github.com/Onited"><img alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a href="https://www.linkedin.com/in/dorian-baudry34/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<img alt='Discord' src='https://img.shields.io/badge/DorianBaudry-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
 
-Credit: [onited](https://github.com/onited)
 
-Last Edited on: 08/04/2022
+Credit: [Onited](https://github.com/onited)
