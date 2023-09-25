@@ -2,9 +2,9 @@
 <h1 align="center">
   <b>Dorian Baudry</b>
 </h1>
-
-<p>Bonjour, je m'appel Dorian je suis étudiant en Pré-MSC Pro a Epitech Montpellier. J'ai commencer a faire de la programmation vers novembre 2020 en debutant par le HTML CSS puis par la suite j'ai intégré la Webacademie et ai pu élargir mon champ de compétences en découvrant de nouveaux languages. Aujourd'hui ayant eu mon diplome au sein de la Webacademie j'ai pu integrer la Pré-MSC Pro afin de pouvoir me spécialiser dans un domaine précis</p>
-
+<div align="center">
+<p>Bonjour, je m'appel Dorian je suis étudiant en Pré-MSC Pro a Epitech Montpellier. J'ai commencer a faire de la programmation vers novembre 2020 en debutant par le HTML CSS puis par la suite j'ai intégré la Webacademie et ai pu élargir mon champ de compétences en découvrant de nouveaux languages. Aujourd'hui ayant eu mon diplome au sein de la Webacademie j'ai pu integrer la Pré-MSC Pro afin de pouvoir me spécialiser dans un domaine précis.</p>
+</div>
 <br>
 
 <p>
@@ -25,7 +25,7 @@ class Onited {
 	constructor(){
 		this.name = "Dorian Baudry";
 		this.username = "Onited";
-		this.age = "20 ans";
+		this.age = "21 ans";
 		this.location = "Montpellier, France";
 		this.linkedin = "https://www.linkedin.com/in/dorian-baudry34/";
 	}
@@ -66,13 +66,16 @@ me => myInfo();
 </p>
 <br>
 
+<!--
 [![Onited' Activity Graph](https://activity-graph.herokuapp.com/graph?username=onited&custom_title=Onited's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Onited/)
+-->
 
 ------
-## <p><strong>>Où me trouver !<</strong><p>
-<a href="https://github.com/Onited"><img alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
-<a href="https://www.linkedin.com/in/dorian-baudry34/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-<img alt='Discord' src='https://img.shields.io/badge/DorianBaudry-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
-
+<div align="center">
+	<p><strong>>Où me trouver !<</strong><p>
+	<a href="https://github.com/Onited"><img alt='GitHub' src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/></a>
+	<a href="https://www.linkedin.com/in/dorian-baudry34/"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+	<img alt='Discord' src='https://img.shields.io/badge/DorianBaudry-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/>
+</div>
 
 Credit: [Onited](https://github.com/onited)
