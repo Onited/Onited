@@ -3,7 +3,7 @@
   <b>Dorian Baudry</b>
 </h1>
 
-<p>Bonjour, je m'appel Dorian je suis étudiant a la Webacademie by Epitech. J'ai commencer a faire de la programmation vers novembre 2020 en debutant par le HTML CSS puis par la suite j'ai intégré la Webacademie et ai pu élargir mon champ de compétences en découvrant de nouveaux languages</p>
+<p>Bonjour, je m'appel Dorian je suis étudiant en Pré-MSC Pro a Epitech Montpellier. J'ai commencer a faire de la programmation vers novembre 2020 en debutant par le HTML CSS puis par la suite j'ai intégré la Webacademie et ai pu élargir mon champ de compétences en découvrant de nouveaux languages. Aujourd'hui ayant eu mon diplome au sein de la Webacademie j'ai pu integrer la Pré-MSC Pro afin de pouvoir me spécialiser dans un domaine précis</p>
 
 <br>
 
