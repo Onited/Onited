@@ -67,5 +67,5 @@ me => myInfo();
 </div>
 		
 <div align="center">
-	Credit: [Onited](https://github.com/onited)
+	<p>Credit: <a href="https://github.com/onited">Onited</a></p>
 </div>
