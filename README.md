@@ -51,8 +51,10 @@ me => myInfo();
 <br/>
 <p align="left">
   <a href="https://github.com/Onited/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Onited&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=onited&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Onited&show_icons=true&theme=gruvbox&hide_border=true" /> -->
+	  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Onited&bg_color=30,00072D,904e95&title_color=fff&text_color=fff&hide_border=false" />
+	 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Onited&theme=blueberry-duo&hide_border=false&exclude_days=Sun%2CSat&card_width=500&border=FFFFFF&background=30%2C00072D%2C904E95&stroke=FFFFFF&ring=FFFFFF&fire=FF8724&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak" /></a>
+<!--     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=onited&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> -->
   </a>
 </p>
 <br>
