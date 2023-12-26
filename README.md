@@ -38,14 +38,6 @@ me => myInfo();
   </a>
 </div>
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/onitedtheone?si=e38715f2f0644780">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ## My Statistics
 
 <br/>
