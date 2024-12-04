@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dorian Baudry</h1>
 <div align="center">
-<p>Hello, my name is Dorian and I am a student in the Pre-MSC Pro program at Epitech Montpellier. I began programming around November 2020, starting with HTML and CSS. Subsequently, I joined the Webacademie and was able to broaden my skill set by discovering new languages. Now, having received my diploma from the Webacademie, I have been able to join the Pre-MSC Pro program to specialize in a specific field.</p>
+<p>Hello, my name is Dorian and I am a student in the at Ynov Montpellier. I began programming around November 2020, starting with HTML and CSS. Subsequently, I joined the Webacademie and was able to broaden my skill set by discovering new languages. Now, having received my diploma from the Webacademie, I have been able to join the Pre-MSC Pro program to specialize in a specific field.</p>
 </div>
 <br>
 
@@ -16,7 +16,7 @@ class Onited {
 	constructor(){
 		this.name = "Dorian Baudry";
 		this.username = "Onited";
-		this.age = "21 ans";
+		this.age = "22 ans";
 		this.location = "Montpellier, France";
 		this.linkedin = "https://www.linkedin.com/in/dorian-baudry34/";
 	}
